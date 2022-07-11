@@ -1,0 +1,43 @@
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar {
+  float: left;
+}
+
+.navbar {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.section {
+    background-color: #82e0ab;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+.bottom-area {
+    background-color: rgb(214, 214, 214);
+    padding: 5px;
+    text-align: center;
+}
+
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+body {
+    background-color: #D5F5E3;
+}
